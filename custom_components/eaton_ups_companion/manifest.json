@@ -1,0 +1,13 @@
+{
+  "domain": "eaton_ups_companion",
+  "name": "Eaton UPS Companion",
+  "after_dependencies": ["http"],
+  "codeowners": ["@routmoute"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/routmoute/home-assistant-eaton-ups-companion",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/routmoute/home-assistant-eaton-ups-companion/issues",
+  "requirements": [],
+  "version": "0.0.1"
+}

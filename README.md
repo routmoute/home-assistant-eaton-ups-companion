@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/github/v/release/routmoute/home-assistant-eaton-ups-companion?label=version)](https://github.com/routmoute/home-assistant-eaton-ups-companion/releases/latest)
 [![Validate for HACS](https://github.com/routmoute/home-assistant-eaton-ups-companion/workflows/Validate%20for%20HACS/badge.svg)](https://github.com/routmoute/home-assistant-eaton-ups-companion/actions/workflows/hacs.yaml)
-[![Validate% with hassfest](https://github.com/routmoute/home-assistant-eaton-up-companion/workflows/Validate%20with%20hassfest/badge.svg)](https://github.com/routmoute/home-assistant-eaton-ups-companion/actions/workflows/hassfest.yaml)
+[![Validate% with hassfest](https://github.com/routmoute/home-assistant-eaton-ups-companion/workflows/Validate%20with%20hassfest/badge.svg)](https://github.com/routmoute/home-assistant-eaton-ups-companion/actions/workflows/hassfest.yaml)
 
 Custom Home Assistant integration to get datas from windows Eaton UPS Companion
 
